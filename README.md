@@ -9,7 +9,7 @@
 - LED Yellow
 - Flip switch
 
-<img src="https://github.com/wdpckr92/MPU9250-Datalogger/blob/master/IMG_20200327_175819.jpg" width="450" height="500" title="Github Logo"><img src="https://github.com/wdpckr92/MPU9250-Datalogger/blob/master/IMG_20200327_175925.jpg" width="450" height="500" title="Github Logo">
+<img src="https://github.com/wdpckr92/MPU9250-Datalogger/blob/master/pictures/picture1.jpg" width="450" height="500" title="Github Logo"><img src="https://github.com/wdpckr92/MPU9250-Datalogger/blob/master/pictures/picture2.jpg" width="450" height="500" title="Github Logo">
 
 
 
